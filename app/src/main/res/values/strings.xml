@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OefIntents</string>
+    <string name="str_ti_phone">Phone</string>
+    <string name="str_ti_web">Web</string>
+    <string name="str_btn_navigate">Go</string>
+    <string name="str_btn_call">Call</string>
+    <string name="str_btn_homepage">Homepage</string>
+    <string name="str_ti_name">Leonaire</string>
+
+</resources>
